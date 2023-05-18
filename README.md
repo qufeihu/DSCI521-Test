@@ -1,2 +1,4 @@
 # DSCI521-Test
-Random Git Test for DSCI521
+Author: Qufei Hu
+Date: 2023-05-18
+Purpose: Git Test
